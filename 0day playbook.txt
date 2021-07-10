@@ -1,0 +1,23 @@
+Definitions
+When thinking about the topic at hand, it’s important to distinguish among three major terms: zero-day attacks, exploits, and vulnerabilities. Let’s define each:
+
+Zero-day vulnerability – an inherent flaw in software code or in the way a piece of software interacts with other software that is yet to be discovered by the software vendor.
+
+Zero-day exploit – an exploit based on a zero-day vulnerability; usually malicious software that uses a zero-day vulnerability to gain access to a target system.
+
+Zero-day attack – the act of applying a zero-day exploit for malicious purposes; a true zero-day attack occurs when perpetrators are using a vulnerability currently unknown to the software vendor in order to compromise the system and perform malicious actions. The term pseudo zero-day attack describes examples such as WannaCry ransomware, where the exploit was already known to the software vendor but the cyberattack was still effective due to the failure of end-users to update their software.
+
+Generally, in cybersecurity the term zero-day refers to the day when a new vulnerability is discovered by a software vendor. From that moment of zero-day detection, the clock is ticking for the vendor to produce a patch as quickly as possible.
+
+
+How To Ensure Zero-Day Attack Prevention?
+Zero-day vulnerabilities can present severe security risks, thereby exposing your systems to zero-day attacks. The damages can be far-reaching, which necessitates zero-day attack prevention.
+
+Install a robust antivirus/antimalware software (preferably an AI-ML based solution) that can protect against both known and unknown threats.
+
+Ensure to update the Operating systems, software and applications whenever the developer releases the updates. Delaying the updates can cause your systems to become vulnerable to zero-day attacks.
+
+Ensure that your employees, clients, and vendors practice adopt reasonable online security practices.
+
+Ensure security settings are configured appropriately for the OS, security software/solutions, and the internet browser for zero-day protection.
+
