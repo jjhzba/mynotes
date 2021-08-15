@@ -21,11 +21,3 @@ send wechat logs to mailbox daily
 
 8. reference standard --
 
-1. 可以发送到syslog-ng存为日志
-2. 但是splunk无法使用windows addon解析出正确的field，如像SID等，只能作为普通日志存储功能使用
-3. IMS的服务器和PC一共大约有180台左右，由于无法像splunk agent过滤不必要的日志，每天日志量大概有30G左右
-4. 这样须额外增加硬盘和license
-5. 每天180台的日志要手工放到不同的机器目录下，工作量大且易出错
-6. Splunk ES也无法正确分析，无法起到相应的作用
-7. 即使作为一个短期的解决方案，也是费人力，物力和财力；长期更不推荐
-8. 最好在IDF安装splunk服务器
